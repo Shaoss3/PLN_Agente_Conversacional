@@ -1,0 +1,196 @@
+{
+  "intenciones": [
+    {
+      "tag": "saludo",
+      "utterances": [
+        "hola",
+        "buenas",
+        "buenos días",
+        "buenas tardes",
+        "hola como estas",
+        "hey hola",
+        "buen dia",
+        "hola necesito ayuda"
+      ],
+      "respuestas": [
+        "¡Hola! Soy el asistente virtual de Admisión y Nivelación de la Universidad de Guayaquil. ¿En qué puedo ayudarte?"
+      ]
+    },
+    {
+      "tag": "despedida",
+      "utterances": [
+        "gracias",
+        "hasta luego",
+        "chao",
+        "muchas gracias",
+        "ok gracias",
+        "eso era todo gracias",
+        "adios",
+        "bye"
+      ],
+      "respuestas": [
+        "¡De nada! Si tienes más preguntas sobre admisión o nivelación, no dudes en consultarme. ¡Éxitos!"
+      ]
+    },
+    {
+      "tag": "proceso_admision",
+      "utterances": [
+        "como es el proceso de admision en la ug",
+        "como funcionan las admisiones en la UG",
+        "cual es el proceso admision",
+        "como hago el proceso de admision en la universidad de guayaquil",
+        "admisiones en la ug como es",
+        "que pasos sigo para ingresar a la ug",
+        "como me postulo a la universidad de guayaquil",
+        "cuales son las etapas del proceso de admision"
+      ],
+      "respuestas": [
+        "El proceso de admisiones a la Universidad de Guayaquil se divide en 10 etapas fundamentales, siendo el Registro Nacional un requisito fundamental para iniciar el proceso. Para seguir cada una de las etapas visita: https://admision.ug.edu.ec/admision/"
+      ]
+    },
+    {
+      "tag": "requisitos_admision",
+      "utterances": [
+        "que requisitos necesito para inscribirme",
+        "que documentos pido para la admision",
+        "cuales son los requisitos para postular a la ug",
+        "que necesito para entrar a la universidad de guayaquil",
+        "documentos para admision ug",
+        "q necesito para admision",
+        "requisitos para postularse a la ug",
+        "que piden para la inscripcion"
+      ],
+      "respuestas": [
+        "Para postularte a la Universidad de Guayaquil necesitas completar el Registro Nacional y cumplir con los requisitos generales del proceso. Consulta los requisitos actualizados en: https://admision.ug.edu.ec/admision/"
+      ]
+    },
+    {
+      "tag": "fechas_registro",
+      "utterances": [
+        "cuando son las fechas de postulacion de carrera",
+        "fechas de inscripciones a carreras",
+        "como se cuando son las fechas de inscripcion",
+        "como funciona el proceso de inscripcion y postulacion",
+        "q dias son el registro segun mi cedula",
+        "cuando me puedo inscribir",
+        "cuando abren las inscripciones",
+        "fechas de registro admision ug"
+      ],
+      "respuestas": [
+        "Las fechas de registro están organizadas según el último dígito de tu cédula. Consulta el cronograma vigente en: https://admision.ug.edu.ec/admision/"
+      ]
+    },
+    {
+      "tag": "crear_cuenta_siug",
+      "utterances": [
+        "como creo mi cuenta en el siug",
+        "como me registro en el siug",
+        "no tengo cuenta en el siug como la creo",
+        "registro siug universidad de guayaquil",
+        "donde creo la cuenta para matricularme",
+        "como crear cuenta siug",
+        "que es el siug y como accedo",
+        "necesito crear cuenta para matricularme"
+      ],
+      "respuestas": [
+        "Para crear tu cuenta en el Sistema Integrado de la Universidad de Guayaquil (SIUG), ingresa a: https://servicioenlinea.ug.edu.ec/SIUG/Account/Login.aspx — La cuenta SIUG es necesaria para completar tu matrícula en nivelación."
+      ]
+    },
+    {
+      "tag": "aplicacion_evaluaciones",
+      "utterances": [
+        "q van a tomar en la prueba de ingreso",
+        "como se que me van a tomar en la evaluacion de conocimientos",
+        "donde veo los temas de la prueba",
+        "como se que bloque de conocimiento soy",
+        "como es la evaluacion de conocimientos",
+        "que temas entran en el examen de admision",
+        "como es el examen de ingreso a la ug",
+        "prueba de admision que contiene"
+      ],
+      "respuestas": [
+        "El examen de admisión evalúa conocimientos y habilidades según el perfil de ingreso de la carrera seleccionada. El bloque de conocimiento depende de tu carrera. Para saber a qué bloque perteneces visita la sección 'Evaluación' en: https://admision.ug.edu.ec/admision/"
+      ]
+    },
+    {
+      "tag": "asignacion_cupo",
+      "utterances": [
+        "como se asignan los cupos",
+        "como funciona el proceso de asignacion de cupos",
+        "como se mi puntaje de postulacion",
+        "cuanto puntaje debo tener para que me asignen un cupo",
+        "proceso de asignacion de cupo",
+        "como calculan el puntaje para el cupo",
+        "con que nota me dan el cupo",
+        "como saber si me asignaron cupo"
+      ],
+      "respuestas": [
+        "El cupo se asigna automáticamente según el puntaje de postulación, que se calcula así: 50% examen de admisión + 50% antecedentes académicos + acciones afirmativas (si aplica). También se considera la carrera elegida y los principios de mérito e igualdad de oportunidades."
+      ]
+    },
+    {
+      "tag": "matricula_nivelacion",
+      "utterances": [
+        "como se matricula al curso de nivelacion de carrera",
+        "matricula nivelacion",
+        "requisitos para matricularse a nivelacion",
+        "que debo hacer para matricularme a nivelacion",
+        "registro al curso de nivelacion de la universidad de guayaquil",
+        "como me matriculo en nivelacion ug",
+        "proceso de matricula nivelacion",
+        "donde me matriculo para nivelacion"
+      ],
+      "respuestas": [
+        "La matrícula al curso de nivelación es online a través del SIUG, según el periodo, carrera y jornada correspondiente. Debes adjuntar documentos escaneados al sistema. Más información en: https://admision.ug.edu.ec/nivelacion/ — Para crear tu cuenta SIUG: https://servicioenlinea.ug.edu.ec/SIUG/Account/Login.aspx"
+      ]
+    },
+    {
+      "tag": "aprobacion_nivelacion",
+      "utterances": [
+        "con cuanto se aprueba nivelacion",
+        "que puntaje debo alcanzar para pasar nivelacion",
+        "cual es el puntaje minimo para pasar nivelacion de carrera",
+        "como funciona la aprobacion del curso de nivelacion de carrera",
+        "como se evalua nivelacion",
+        "que nota necesito para aprobar nivelacion",
+        "cuanto es la nota minima en nivelacion",
+        "que pasa si no apruebo nivelacion"
+      ],
+      "respuestas": [
+        "Para aprobar el Curso de Nivelación debes: cursar todas las asignaturas establecidas, cumplir con mínimo el 70% de asistencia y alcanzar un promedio mínimo de 7/10 en cada asignatura."
+      ]
+    },
+    {
+      "tag": "clases_nivelacion",
+      "utterances": [
+        "como son las clases de nivelacion de carrera",
+        "como ingreso a las clases de nivelacion",
+        "como se ingresa a las clases virtuales",
+        "desde donde se ingresan a las clases",
+        "clases virtuales de nivelacion",
+        "donde son las clases de nivelacion",
+        "como entro a zoom para nivelacion",
+        "como accedo a mis clases en el siug"
+      ],
+      "respuestas": [
+        "Las clases sincrónicas se realizan por Zoom. Para unirte, ingresa al SIUG y sigue esta ruta: Académico → Estudiante → Horarios → Clases Virtuales."
+      ]
+    },
+    {
+      "tag": "fuera_dominio",
+      "utterances": [
+        "cual es la capital de francia",
+        "como hago una torta de chocolate",
+        "que hora es",
+        "quien gano el mundial",
+        "recomiendame una pelicula",
+        "cuanto es 2 mas 2",
+        "como aprendo a programar",
+        "que es la inteligencia artificial"
+      ],
+      "respuestas": [
+        "Lo siento, solo puedo responder preguntas relacionadas con el proceso de admisión y nivelación de la Universidad de Guayaquil. ¿Tienes alguna consulta sobre esos temas?"
+      ]
+    }
+  ]
+}
