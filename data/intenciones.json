@@ -191,6 +191,38 @@
       "respuestas": [
         "Lo siento, solo puedo responder preguntas relacionadas con el proceso de admisión y nivelación de la Universidad de Guayaquil. ¿Tienes alguna consulta sobre esos temas?"
       ]
-    }
+    },
+    {
+  "tag": "oferta_academica",
+  "utterances": [
+    "que carreras ofrece la ug",
+    "cuales son las carreras disponibles en la universidad de guayaquil",
+    "que puedo estudiar en la ug",
+    "carreras disponibles en la ug",
+    "cuantas carreras tiene la universidad de guayaquil",
+    "que facultades tiene la ug",
+    "cuales son las carreras vigentes",
+    "que carreras hay en la ug"
+  ],
+  "respuestas": [
+    "La Universidad de Guayaquil ofrece 59 carreras vigentes en 17 facultades con modalidades presencial, híbrida y en línea. Las carreras están organizadas en 6 bloques según área de conocimiento. Consulta todas las carreras en: https://admision.ug.edu.ec/admision/"
+  ]
+},
+    {
+  "tag": "informacion_carrera",
+  "utterances": [
+    "cuanto dura la carrera de medicina",
+    "cuantos semestres tiene ingenieria civil",
+    "que titulo obtengo en derecho",
+    "en que facultad esta software",
+    "que modalidad tiene arquitectura",
+    "cuanto dura el pregrado de enfermeria",
+    "informacion sobre la carrera de psicologia",
+    "que carreras son presenciales"
+  ],
+  "respuestas": [
+    "Aquí tienes información sobre la carrera que buscas. Consulta el detalle completo en: https://admision.ug.edu.ec/admision/"
+  ]
+}
   ]
 }
